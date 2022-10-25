@@ -1,0 +1,2 @@
+# pratik9_kullaniciGirisi
+ pratik9_kullaniciGirisi
